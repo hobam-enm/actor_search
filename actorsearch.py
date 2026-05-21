@@ -42,8 +42,6 @@ TARGET_GROUPS = {
         "{actor} 이상형",
         "{actor} 첫사랑",
         "{actor} 짝사랑",
-        "{actor} 사귀고 싶다",
-        "{actor} 결혼하고 싶다",
         "{actor} 여자친구",
         "{actor} 여친",
     ],
